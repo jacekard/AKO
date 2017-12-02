@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿  Assembling 2_7.asm...
   zad2_2.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Lab 2\zad2_2\Debug\Lab2.exe
   zad2_2.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Lab 2\zad2_2\Debug\Lab2.pdb (Partial PDB)
+=======
+﻿  Assembling 2_7.asm...
+  zad2_2.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Lab 2\zad2_2\Debug\Lab2.exe
+  zad2_2.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Lab 2\zad2_2\Debug\Lab2.pdb (Partial PDB)
+>>>>>>> initializing git

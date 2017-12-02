@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿  Assembling zad64.asm...
   AKO1.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Project1\x64\Debug\AKO1.exe
   AKO1.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Project1\x64\Debug\AKO1.pdb (Partial PDB)
+=======
+﻿  Assembling zad64.asm...
+  AKO1.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Project1\x64\Debug\AKO1.exe
+  AKO1.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Projekty\Project1\x64\Debug\AKO1.pdb (Partial PDB)
+>>>>>>> initializing git
