@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ascii_na_krotszy.vcxproj, Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Project1.vcxproj -> D:\Dokumenty\Politechnika Gdanska\Semestr 3\AKO\Kolokwium 1\krotszy_na_ascii\Debug\krotszy_na_ascii.exe
