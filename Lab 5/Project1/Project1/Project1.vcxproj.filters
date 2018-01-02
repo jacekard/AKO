@@ -18,5 +18,37 @@
     <MASM Include="zad_1.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="5_1.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="e_do_x.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="5_2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="sse_example.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="5_3.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="5_4.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="5_5.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="5_6.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -79,7 +79,6 @@
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalOptions>libcmt.lib %(AdditionalOptions)</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
@@ -117,7 +116,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <MASM Include="zad_1.asm" />
+    <MASM Include="5_1.asm" />
+    <MASM Include="5_2.asm" />
+    <MASM Include="5_3.asm" />
+    <MASM Include="5_4.asm" />
+    <MASM Include="5_5.asm" />
+    <MASM Include="5_6.asm" />
+    <MASM Include="e_do_x.asm" />
+    <MASM Include="sse_example.asm" />
+    <MASM Include="zad_1.asm">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c" />
+    <ClCompile Include="sse.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
